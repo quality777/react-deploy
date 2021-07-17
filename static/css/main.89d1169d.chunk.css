@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}.catsDiv{width:100%;display:flex;justify-content:center;align-items:center;overflow-y:scroll}.catsItem>img{width:16vw;height:15vw}.catsItem:not(:first-child){margin-left:5%}.buttons,.main{display:flex}.buttons{flex-direction:column;align-items:center}.buttons>button{width:100%;margin:5%}
+/*# sourceMappingURL=main.89d1169d.chunk.css.map */
